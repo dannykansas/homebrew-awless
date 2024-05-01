@@ -1,10 +1,17 @@
-# Dannykansas Awless
+# homebrew-awless
+Brewfile for awless
 
 ## How do I install these formulae?
+
+1. Install:
 
 `brew install dannykansas/awless/<formula>`
 
 Or `brew tap dannykansas/awless` and then `brew install <formula>`.
+
+2. Unintall:
+
+`brew uninstall awless`
 
 ## Documentation
 
