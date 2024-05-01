@@ -9,7 +9,7 @@ Brewfile for awless
 
 Or `brew tap dannykansas/awless` and then `brew install <formula>`.
 
-2. Unintall:
+2. Uninstall:
 
 `brew uninstall awless`
 
